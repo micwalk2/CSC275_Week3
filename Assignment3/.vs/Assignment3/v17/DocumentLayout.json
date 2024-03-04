@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{368C228B-E194-4201-B077-40597E38C28F}|Assignment3.vcxproj|C:\\Users\\micha\\OneDrive\\Desktop\\_repos\\CSC275_Week3\\Assignment3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{368C228B-E194-4201-B077-40597E38C28F}|Assignment3.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micha\\AppData\\Local\\Temp\\04c217b3-1979-4278-ac87-9ab8c7ffd9ee_CSC275 2 26 24 smart pointers (2).zip.9ee\\CSC275 2 26 24 smart pointers\\CSC275 2 26 24 smart pointers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2038,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
@@ -27,44 +24,10 @@
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\_repos\\CSC275_Week3\\Assignment3\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAMAAAASAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGcAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-03T18:44:20.33Z",
               "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "184d69bc-2e46-4717-8bdb-06b567525ed6",
-        "Display": 0,
-        "X": 1012,
-        "Y": 59,
-        "Width": 2222,
-        "Height": 1142,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\micha\\AppData\\Local\\Temp\\04c217b3-1979-4278-ac87-9ab8c7ffd9ee_CSC275 2 26 24 smart pointers (2).zip.9ee\\CSC275 2 26 24 smart pointers\\CSC275 2 26 24 smart pointers\\main.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\04c217b3-1979-4278-ac87-9ab8c7ffd9ee_CSC275 2 26 24 smart pointers (2).zip.9ee\\CSC275 2 26 24 smart pointers\\CSC275 2 26 24 smart pointers\\main.cpp",
-              "ToolTip": "C:\\Users\\micha\\AppData\\Local\\Temp\\04c217b3-1979-4278-ac87-9ab8c7ffd9ee_CSC275 2 26 24 smart pointers (2).zip.9ee\\CSC275 2 26 24 smart pointers\\CSC275 2 26 24 smart pointers\\main.cpp [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\04c217b3-1979-4278-ac87-9ab8c7ffd9ee_CSC275 2 26 24 smart pointers (2).zip.9ee\\CSC275 2 26 24 smart pointers\\CSC275 2 26 24 smart pointers\\main.cpp [Read Only]",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-03T23:08:56.829Z",
-              "EditorCaption": " [Read Only]"
             }
           ]
         }
